@@ -1,0 +1,4 @@
+open project on your IDE platform intelij/eclipse;
+run CountryMain
+use stringList for local file or apiList to use API from web
+replace it in JsonArray list
