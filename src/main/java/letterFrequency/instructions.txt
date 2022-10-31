@@ -1,0 +1,3 @@
+open project on your java IDE platform intelij/eclipse;
+run LetterFrequencyMain.java
+run LetterFrequencyMainTest.java
